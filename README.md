@@ -10,7 +10,7 @@
 ### Need update?
 You can update manually installing new version of XenCenter/XCP-ng Center inside of lastest release <s>or patience to wait one new realease in this repository</s>.
 ## Alert! Security risk
-* You need connect in servers with ***port 80***, the default port not work. Make caution for use out of our local network!
+* You need connect in servers with ***port 80***, the default port not work. Caution for use out of our local network!
 ### How to re-build
 <s>If you not trust me or </s>**Need re-make this work?** ***Go a head!***
 1. Install **wine** (https://wiki.winehq.org/Download)
