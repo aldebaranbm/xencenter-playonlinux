@@ -7,6 +7,8 @@
 3. **Connect** in your XenServer/XCP-ng with **port 80**, example: *192.168.0.100:80*
 > *XCP-ng Center is "same" of XenCenter, you can use it to connect in your Citrix XenServer.*
 
+> *Maybe the first start is very slowly, just have a little patience.*
+
 ### Need update?
 You can update manually installing new version of XenCenter/XCP-ng Center inside of lastest release <s>or patience to wait one new realease in this repository</s>.
 ## Alert! Security risk
@@ -20,4 +22,4 @@ You can update manually installing new version of XenCenter/XCP-ng Center inside
 5. Install **XenCenter/XCP-ng Center**
 > *Install IE8 and .NET 2.0 in winXP version. To .NET 4.7.2 use win7 version.*
 ### Not work?
-> <s>oh, damn!</s> Sorry, but, i using **Debian 9.7 (amd64)** with **Wine 4.0 (i386)**, this run with good stability for me home server/personal use. I use the package playonlinux of debian official contrib repository and wine package is from official wine stable repository.
+> <s>oh, damn!</s> Sorry, but, i using **Debian 9.9 (amd64)** with **Wine 4.0 (i386)**, this run with good stability for me home server/personal use. I use the package playonlinux of debian official contrib repository and wine package is from official wine stable repository.
