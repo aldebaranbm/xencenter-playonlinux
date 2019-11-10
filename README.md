@@ -22,4 +22,4 @@ You can update manually installing new version of XenCenter/XCP-ng Center inside
 5. Install **XenCenter/XCP-ng Center**
 > *Install IE8 and .NET 2.0 in winXP version. To .NET 4.7.2 use win7 version.*
 ### Not work?
-> <s>oh, damn!</s> Sorry, but, i using **Debian 9.9 (amd64)** with **Wine 4.0 (i386)**, this run with good stability for me home server/personal use. I use the package playonlinux of debian official contrib repository and wine package is from official wine stable repository.
+> <s>oh, damn!</s> Sorry, but, i using **Debian 10.1 (amd64)** with **Wine 4.0.2 (i386)**, this run with good stability for me home server/personal use. I use the package playonlinux of debian official contrib repository and wine package is from official wine stable repository.
